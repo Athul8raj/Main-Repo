@@ -6,7 +6,9 @@
 
 	1.Linear Regression with scikit-learn and pandas/numpy:
 	  Performed linear regression on time series data of Google’s stock from 1982 to present, achieved 98 percent accuracy and tried to forecast for next 15 days and visualize using matplotlib library.
-	  ![Time_series_prediction](https://github.com/Athul8raj/Main-Repo/blob/master/images/Time_series_prediction.png)
+
+![Time_series_prediction](https://github.com/Athul8raj/Main-Repo/blob/master/images/Time_series_prediction.png)
+
 	2.Practical approach to Linear Regression:
 	  Took random 2d data and followed an algorithmic approach to find the MSE, R^2 and ways to manipulate both these items
 	3.Logistic Regression with scikit-learn and pandas/numpy:
@@ -85,4 +87,3 @@
 
 	This flask app lets the user view the content(Software courses) after he/she logins through Social media platforms which gets registered in the database	(Postegres).If the user intends to add content into the website they can add the url and description to the wesite and through Asynchronous task scheduler 		Celery(with redis broker) to send a mail to the approver as a pdf listing the details.Once it is approved the content will be reflected on the website
 
-![Time_series_prediction](https://github.com/Athul8raj/Main-Repo/blob/master/images/Time_series_prediction.png)
