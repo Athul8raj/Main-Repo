@@ -24,8 +24,11 @@
 	  Linear dataset solved using SVM to achieve 98 percent accuracy
 	4.Soft Margin SVM with Gaussian Kernel:
 	  Random non-linear dataset analyzed using different kernels like polynomial and gaussian and their contours plotted.
+	  Thanks to Mathieu Blondel, September 2010 for this code
 	  
 ![SVM](https://github.com/Athul8raj/Main-Repo/blob/master/images/SVM%20with%20gaussian%20kernel.png)
+
+![SVM w/ Linear Kernel](https://github.com/Athul8raj/Main-Repo/blob/master/images/SVM%20with%20gaussian%20kernel.png)
 
 	5.Practical Approach to SVM:
 	  Algorithmic approach using SVM constraints and convex optimization to practically solve a random dataset
