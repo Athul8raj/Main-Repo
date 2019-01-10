@@ -5,7 +5,7 @@
 # Regression:
 
 	1.Linear Regression with scikit-learn and pandas/numpy:
-	  Performed linear regression on time series data of Google’s stock from 1982 to present, achieved 98 percent accuracy and tried to forecast for next 15 days 	  and visualize using matplotlib library.
+	  Performed linear regression on time series data of Googleâ€™s stock from 1982 to present, achieved 98 percent accuracy and tried to forecast for next 15 days 	  and visualize using matplotlib library.
 	2.Practical approach to Linear Regression:
 	  Took random 2d data and followed an algorithmic approach to find the MSE, R^2 and ways to manipulate both these items
 	3.Logistic Regression with scikit-learn and pandas/numpy:
@@ -27,7 +27,7 @@
 # Unsupervised Learning:
 
 	1.Flat Clustering with k-Means using scikit-learn:
-	  Kaggle’s Titanic dataset is analyzed and grouped into 2 clusters based on the passenger’s survival 
+	  Kaggleâ€™s Titanic dataset is analyzed and grouped into 2 clusters based on the passengerâ€™s survival 
 	2.Practical Approach to K-Means:
 	  Euclidean distance along with proximity is used to cluster data points into groups
 	3.Hierarchical Clustering with Mean Shift using scikit-learn:
