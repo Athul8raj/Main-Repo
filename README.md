@@ -72,9 +72,9 @@
 
 	# Defenders App
 
-	This is a Anti-Plagiarism app which make use of an nltk library to search through the web for certain matches 	and 	give the corresponding probability of 	plagiarism.You can find the app in the URl below
+	This is a Anti-Plagiarism app which make use of an nltk library to search through the web for certain matches 	and 	give the corresponding probability of 	plagiarism.You can find the app in the URl below which is hosted on pythonanywhere.com
 
-	http://athulraj.pythonanywhere.com/
+	http://athulrajp.pythonanywhere.com/
 
      	# Angular App with BS4
 
