@@ -28,7 +28,7 @@
 	  
 ![SVM](https://github.com/Athul8raj/Main-Repo/blob/master/images/SVM%20with%20gaussian%20kernel.png)
 
-![SVM w/ Linear Kernel](https://github.com/Athul8raj/Main-Repo/blob/master/images/SVM%20with%20gaussian%20kernel.png)
+![SVM w/ Linear Kernel](https://github.com/Athul8raj/Main-Repo/blob/master/images/SVM%20with%20Linear%20kernel.png)
 
 	5.Practical Approach to SVM:
 	  Algorithmic approach using SVM constraints and convex optimization to practically solve a random dataset
