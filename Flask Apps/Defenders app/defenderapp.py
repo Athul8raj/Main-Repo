@@ -16,7 +16,7 @@ def form():
 def IsItPlagiarized():
     text_to_filter = request.form['text_to_check']
     if (text_to_filter.lstrip().rstrip() == ''):
-        return render_template('index.html')
+        return render_template('error.html')
     punkt_param = PunktParameters()
     sentence_splitter = PunktSentenceTokenizer(punkt_param)
     sentences = sentence_splitter.tokenize(text_to_filter)
