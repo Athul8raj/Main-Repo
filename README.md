@@ -5,11 +5,14 @@
 # Regression:
 
 	1.Linear Regression with scikit-learn and pandas/numpy:
-	  Performed linear regression on time series data of Google’s stock from 1982 to present, achieved 98 percent accuracy and tried to forecast for next 15 days 	  and visualize using matplotlib library.
+	  Performed linear regression on time series data of Google’s stock from 1982 to present, achieved 98 percent accuracy and tried to forecast for next 15 days and visualize using matplotlib library.
+
+![Time_series_prediction](https://github.com/Athul8raj/Main-Repo/blob/master/images/Time_series_prediction.png)
+
 	2.Practical approach to Linear Regression:
 	  Took random 2d data and followed an algorithmic approach to find the MSE, R^2 and ways to manipulate both these items
 	3.Logistic Regression with scikit-learn and pandas/numpy:
-	  Executed logistic regression method on famous Breast cancer dataset from Kaggle and achieved 99 percent accuracy to predict whether the patient has 	  	  malignant tumor or otherwise
+	  Executed logistic regression method on famous Breast cancer dataset from Kaggle and achieved 99 percent accuracy to predict whether the patient has malignant tumor or otherwise
 
 # Classification:
 
@@ -21,6 +24,9 @@
 	  Linear dataset solved using SVM to achieve 98 percent accuracy
 	4.Soft Margin SVM with Gaussian Kernel:
 	  Random non-linear dataset analyzed using different kernels like polynomial and gaussian and their contours plotted.
+	  
+![SVM](https://github.com/Athul8raj/Main-Repo/blob/master/images/SVM%20with%20gaussian%20kernel.png)
+
 	5.Practical Approach to SVM:
 	  Algorithmic approach using SVM constraints and convex optimization to practically solve a random dataset
  
@@ -34,6 +40,8 @@
 	  Titanic dataset is clustered using bandwidth method of Mean shift
 	4.Dynamic Bandwidth for Mean shift:
 	  Random dataset is clustered by assigning different weights for bandwidths from data points
+	  
+![Mean Shift](https://github.com/Athul8raj/Main-Repo/blob/master/images/Mean%20shift%20with%20Dynamic%20bandwidth.png)
 
 # Ensembles:
 
