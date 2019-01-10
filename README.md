@@ -5,11 +5,11 @@
 # Regression:
 
 	1.Linear Regression with scikit-learn and pandas/numpy:
-	  Performed linear regression on time series data of Google’s stock from 1982 to present, achieved 98 percent accuracy and tried to forecast for next 15 days 	  and visualize using matplotlib library.
+	  Performed linear regression on time series data of Google’s stock from 1982 to present, achieved 98 percent accuracy and tried to forecast for next 15 days and visualize using matplotlib library.
 	2.Practical approach to Linear Regression:
 	  Took random 2d data and followed an algorithmic approach to find the MSE, R^2 and ways to manipulate both these items
 	3.Logistic Regression with scikit-learn and pandas/numpy:
-	  Executed logistic regression method on famous Breast cancer dataset from Kaggle and achieved 99 percent accuracy to predict whether the patient has 	  	  malignant tumor or otherwise
+	  Executed logistic regression method on famous Breast cancer dataset from Kaggle and achieved 99 percent accuracy to predict whether the patient has malignant tumor or otherwise
 
 # Classification:
 
