@@ -66,6 +66,9 @@
 
 	Using Pre-trained Model with Tensorflow, Keras and Tensorboard:
 	A pre-trained CNN model using Dogs_vs_Cats dataset is used to classify horses and Human. A sequential Keras model along with 3 hidden CNN layers is fused with 	a Dense layer to correctly classify between horses and humans.
+	
+	Using Fine Tuning using VGG16net with Tensorflow, Keras:
+	VGG16 model is used for fine tuning a classifier by adding a dense layer to the VGG16 model using Keras Sequential model and training it.The model is also augmented by ImageDataGenerator to generate images to train,test and validate the model.
 
 # Generative Adversarial Networks(GANs):
 
